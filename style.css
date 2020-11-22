@@ -2,6 +2,10 @@ body{
     background: #f5d9d5;
     font-family: nunito;
 }
+html {
+    scroll-behavior: smooth;
+    overflow-y: scroll;
+  }
 
 .sec1{
     margin-top: 100px;
